@@ -206,6 +206,10 @@ function getMenuGroups(module: string): MenuGroup[] {
                         title: 'Pagination',
                         href: '/docs/ui/pagination',
                     },
+                    {
+                        title: 'Searchfield',
+                        href: '/docs/ui/search-field',
+                    },
                 ],
             },
             {
